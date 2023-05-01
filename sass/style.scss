@@ -1,0 +1,16 @@
+@font-face {
+    font-family: 'Gotham';
+    src: url('../gotham-6-cufonfonts/GothamMedium.ttf');
+}
+
+@font-face {
+    font-family: "Gotham-l";
+    src: url('../gotham-6-cufonfonts/GothamLight.ttf');
+}
+
+
+@import 'variables';
+@import 'reset';
+@import 'navigation';
+@import 'header';
+@import 'main';
